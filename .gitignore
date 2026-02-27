@@ -1,0 +1,12 @@
+# Large files - exclude everything first
+*
+
+# Then specifically allow only what we want
+!README.md
+!LICENSE
+!.gitignore
+!src/
+!notebooks/MSc_Thesis_Fraud_Detection.ipynb
+!results/*.png
+!results/*.json
+!results/*.tex
